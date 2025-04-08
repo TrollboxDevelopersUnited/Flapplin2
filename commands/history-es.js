@@ -1,0 +1,3 @@
+(function(args, user) {
+	send('Historia de Flapplin: El gran poema sobre la controversia de Xeonix-Lowfenixx\n\Este bot fue hecho durante una controversia aleatoria involucrando a Xeonix, siendo una total copia de Nyfelnix (que después se convirtió en Lowfenixx). Después del incidente, Magestick tuvo que hacer el repositorio de Nyfelnix privada. Y porque Xeonix y Lowfenixx fueron tan idénticos entre sí, El desarrollo de este último ha reducido desde entonces para hacer un nuevo bot llamado Flapplin. Algunos comandos de Lowfenixx fueron transferidos, añadiendo comandos nuevos e inteligentes.\n\n[Translated by Hain (QuirozP)]')
+})
