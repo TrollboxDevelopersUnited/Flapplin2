@@ -1,3 +1,3 @@
 (function(args, user) {
-	send('Magestick Kitsegame Inazune, my creator.')
+	send('The former name, which is now superseded by Hoyohou (also known as Majestic Star).')
 })
